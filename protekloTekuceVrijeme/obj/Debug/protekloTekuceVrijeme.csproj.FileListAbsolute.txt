@@ -1,0 +1,10 @@
+C:\Users\ucenik\source\repos\statusSkript kontrola\obj\Debug\protekloTekuceVrijeme.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\statusSkript kontrola\obj\Debug\statusSkript_kontrola.Form1.resources
+C:\Users\ucenik\source\repos\statusSkript kontrola\obj\Debug\statusSkript_kontrola.Properties.Resources.resources
+C:\Users\ucenik\source\repos\statusSkript kontrola\obj\Debug\protekloTekuceVrijeme.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\statusSkript kontrola\obj\Debug\protekloTekuceVrijeme.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\statusSkript kontrola\obj\Debug\statusSkript kontrola.exe
+C:\Users\ucenik\source\repos\statusSkript kontrola\obj\Debug\statusSkript kontrola.pdb
+C:\Users\ucenik\source\repos\statusSkript kontrola\bin\Debug\statusSkript kontrola.exe.config
+C:\Users\ucenik\source\repos\statusSkript kontrola\bin\Debug\statusSkript kontrola.exe
+C:\Users\ucenik\source\repos\statusSkript kontrola\bin\Debug\statusSkript kontrola.pdb
